@@ -4,6 +4,7 @@
 
 **如果你也有兴趣的，可以下载文件夹中的 *otp-system-documentation.pdf* 跟我一起翻译**
 
+![Alt Erlang Logo](./images/Erlang_logo.png)
 ----------
 
 jimmysue
